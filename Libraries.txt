@@ -1,0 +1,13 @@
+Libraries
+
+1. pandas - for data manipulation & data analuysis
+2. Matplotlib - for making data visualizations
+3. wordcloud - for word visualizar 
+4. nltk
+   - nltk.tokenize
+   - nltk.sentiment.vader
+   - nltk.corpus
+   - nltk.probability
+   - nltk.corpus
+   - nltk.stem
+5. seaborn - for violin plot
